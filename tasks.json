@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "Javascript",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "node js",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "text": "python",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "text": "exam",
+    "completed": false
+  }
+]
